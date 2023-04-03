@@ -5,6 +5,9 @@
     <welcome-file>HomePage.jsp</welcome-file>
     <welcome-file>Login.jsp</welcome-file>
     <welcome-file>Register.jsp</welcome-file>
+    <welcome-file>product.jsp</welcome-file>
+    <welcome-file>404.jsp</welcome-file>
+    <welcome-file>search.jsp</welcome-file>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
